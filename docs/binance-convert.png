@@ -10,3 +10,14 @@ This project explores integrations with Binance Convert, focusing on referral-ba
 ![Binance Convert Refer & Earn](docs/binance-convert.png)
 
 > Scan the QR code to join and start earning commissions.
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer general GitHub questions here.
+  - name: Referral Workflow Questions
+    url: https://github.com/aka1976mb/akA1976mb/discussions
+    about: Use this space to discuss referral-related workflows and improvements.
+  - name: Security Bug Reports
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
