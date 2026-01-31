@@ -1,4 +1,5 @@
 # akA1976mb
+<img width="981" height="1380" alt="binance" src="https://github.com/user-attachments/assets/d2587ec7-a9e3-4216-91ec-e477ed182a22" />
 
 ## 📌 Project Overview
 This repository documents insights and workflows inspired by Binance’s Dashboard.  
